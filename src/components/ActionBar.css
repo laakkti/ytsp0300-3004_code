@@ -1,0 +1,9 @@
+.actionbar .nav-link {
+  color: #FF00AA !important;
+  font-size: 0.875rem;
+}
+
+.actionbar .nav-link.active {
+  background-color: #1d8f32 !important;
+  color: #FFFFFF !important;
+}

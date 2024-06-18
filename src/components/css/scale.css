@@ -1,0 +1,5 @@
+.container {
+    display: flex;
+    flex-direction: column; /* Change to row for horizontal resizing */
+    width: 100%; /* Container takes full width */
+  }
